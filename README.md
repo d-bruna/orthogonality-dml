@@ -3,7 +3,6 @@
 ## Ridge versus Lasso as Nuisance Estimators in Double Machine Learning
 
 **Authors:** Daniel Garcia Bruña, Renske Gosselaar, Johnny Hu, Emile Moyson  
-**Supervisor:** Anastasija Tetereva  
 **Programme:** Seminar in Machine Learning, Erasmus School of Economics  
 **Date:** April 2026
 
